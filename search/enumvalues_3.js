@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['date',['Date',['../namespaceDeveel_1_1Data_1_1Types.htm#a530b117fabbb831a5ebbc66579e154b1a44749712dbec183e983dcd78a7736c41',1,'Deveel::Data::Types']]],
+  ['datetime',['DateTime',['../namespaceDeveel_1_1Data_1_1Types.htm#a530b117fabbb831a5ebbc66579e154b1a8cf10d2341ed01492506085688270c1e',1,'Deveel::Data::Types']]],
+  ['daytosecond',['DayToSecond',['../namespaceDeveel_1_1Data_1_1Types.htm#a530b117fabbb831a5ebbc66579e154b1a38a917d2a9b314e8eadffd67bded550b',1,'Deveel::Data::Types']]],
+  ['debug',['Debug',['../namespaceDeveel_1_1Data_1_1Diagnostics.htm#a94e9af51f5334854c540f963f6a31ed5aa603905470e2a5b8c13e96b579ef0dba',1,'Deveel.Data.Diagnostics.Debug()'],['../namespaceDeveel_1_1Data_1_1Sql_1_1Compile.htm#a3180af363e927817ed7b064334de1037aa603905470e2a5b8c13e96b579ef0dba',1,'Deveel.Data.Sql.Compile.Debug()']]],
+  ['decimal',['Decimal',['../namespaceDeveel_1_1Data_1_1Types.htm#a530b117fabbb831a5ebbc66579e154b1a937504f318f04eaf0f1d701df4c4d7f3',1,'Deveel::Data::Types']]],
+  ['deep',['Deep',['../namespaceDeveel_1_1Data_1_1Configuration.htm#af83d8d5a4fee29dac31f707a716982dca21d01af167e6874b88ed5f6dc7c4b1e4',1,'Deveel::Data::Configuration']]],
+  ['default',['Default',['../classDeveel_1_1Data_1_1Configuration_1_1DbConfigTests.htm#a2c3b4753b28c295a9db5fff9b482f61ea7a1920d61156abc05a60135aefe8bc67',1,'Deveel.Data.Configuration.DbConfigTests.Default()'],['../namespaceDeveel_1_1Data_1_1Sql.htm#a3f41adf2ae023b6ec661173e43611b42a7a1920d61156abc05a60135aefe8bc67',1,'Deveel.Data.Sql.Default()']]],
+  ['delete',['Delete',['../namespaceDeveel_1_1Data_1_1Security.htm#a9f52b03cf7c446d9b37bb22e9d1806baaf2a6c498fb90ee345d997f888fce3b18',1,'Deveel.Data.Security.Delete()'],['../namespaceDeveel_1_1Data_1_1Sql_1_1Triggers.htm#ab5adac9a94d949a486aea44bdce03253af2a6c498fb90ee345d997f888fce3b18',1,'Deveel.Data.Sql.Triggers.Delete()']]],
+  ['deleted',['Deleted',['../namespaceDeveel_1_1Data.htm#a1bb01c57518f5a3e165a0edaf3c92106a5fe6005bf6e415c950c011fb65f12b8f',1,'Deveel::Data']]],
+  ['deny',['Deny',['../namespaceDeveel_1_1Data_1_1Security.htm#a96bae3068125b11d172858746757ad22a3682d1665cf331373000c20680732d3a',1,'Deveel::Data::Security']]],
+  ['disposed',['Disposed',['../namespaceDeveel_1_1Data_1_1Protocol.htm#ab83d7171dd72d60e27ed9e892e1bdafdab7a1e6a71bc68ec984e98c83a3f62709',1,'Deveel.Data.Protocol.Disposed()'],['../namespaceDeveel_1_1Data_1_1Sql_1_1Cursors.htm#ae79e8941402893a51c3676f3d09087bbab7a1e6a71bc68ec984e98c83a3f62709',1,'Deveel.Data.Sql.Cursors.Disposed()']]],
+  ['divide',['Divide',['../namespaceDeveel_1_1Data_1_1Sql_1_1Expressions.htm#a2cdcdc86afbc2d50cb1ec8e389598b4aa0b914e196182d02615487e9793ecff3d',1,'Deveel::Data::Sql::Expressions']]],
+  ['double',['Double',['../namespaceDeveel_1_1Data_1_1Types.htm#a530b117fabbb831a5ebbc66579e154b1ad909d38d705ce75386dd86e611a82f5b',1,'Deveel::Data::Types']]],
+  ['drop',['Drop',['../namespaceDeveel_1_1Data_1_1Security.htm#a9f52b03cf7c446d9b37bb22e9d1806baa3e679cff5b3a6f6f8f32aead541a0a12',1,'Deveel::Data::Security']]],
+  ['dropcolumn',['DropColumn',['../namespaceDeveel_1_1Data_1_1Sql_1_1Statements.htm#ab0a43af4f6720266cc2d70898c04b460af84131bd785e806ab64e871409f2811a',1,'Deveel::Data::Sql::Statements']]],
+  ['dropconstraint',['DropConstraint',['../namespaceDeveel_1_1Data_1_1Sql_1_1Statements.htm#ab0a43af4f6720266cc2d70898c04b460acb6e1e6cc07df80a131457539c9afd95',1,'Deveel::Data::Sql::Statements']]],
+  ['dropdefault',['DropDefault',['../namespaceDeveel_1_1Data_1_1Sql_1_1Statements.htm#ab0a43af4f6720266cc2d70898c04b460a99acebff04a71d8bcf757fde1994b19a',1,'Deveel::Data::Sql::Statements']]],
+  ['dropprimarykey',['DropPrimaryKey',['../namespaceDeveel_1_1Data_1_1Sql_1_1Statements.htm#ab0a43af4f6720266cc2d70898c04b460af571367776f7b5d0797af81908708bbe',1,'Deveel::Data::Sql::Statements']]]
+];

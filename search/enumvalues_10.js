@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['schema',['Schema',['../namespaceDeveel_1_1Data_1_1Sql.htm#a782e8984e5e4a6718cff0c8da0777d02a7146a60667b422e69fd050fe1df6859a',1,'Deveel::Data::Sql']]],
+  ['schemaall',['SchemaAll',['../namespaceDeveel_1_1Data_1_1Security.htm#a9f52b03cf7c446d9b37bb22e9d1806baaf33ced98963539e90679cda2ec59b353',1,'Deveel::Data::Security']]],
+  ['schemaread',['SchemaRead',['../namespaceDeveel_1_1Data_1_1Security.htm#a9f52b03cf7c446d9b37bb22e9d1806baadb35b0538aadf3d26f18e34a61fbe454',1,'Deveel::Data::Security']]],
+  ['scroll',['Scroll',['../namespaceDeveel_1_1Data_1_1Sql_1_1Cursors.htm#a370761bcef79d19dd9439ae283bf3a79a105078d294d30c978ca2badf7f376934',1,'Deveel::Data::Sql::Cursors']]],
+  ['select',['Select',['../namespaceDeveel_1_1Data_1_1Security.htm#a9f52b03cf7c446d9b37bb22e9d1806baae0626222614bdee31951d84c64e5e9ff',1,'Deveel::Data::Security']]],
+  ['sequence',['Sequence',['../namespaceDeveel_1_1Data_1_1Sql.htm#a782e8984e5e4a6718cff0c8da0777d02a3ff39d3acb327553070a64ef0cb321d5',1,'Deveel::Data::Sql']]],
+  ['serializable',['Serializable',['../namespaceDeveel_1_1Data_1_1Transactions.htm#a480812ee8c332fe897566db9284f50a1a33909597338639745b2d76081beeb48b',1,'Deveel::Data::Transactions']]],
+  ['setaccountstatus',['SetAccountStatus',['../namespaceDeveel_1_1Data_1_1Sql_1_1Statements.htm#a81680033db56d71000ed523955db9b1aa7db969310112f468aabe401217b62195',1,'Deveel::Data::Sql::Statements']]],
+  ['setdefault',['SetDefault',['../namespaceDeveel_1_1Data_1_1Sql_1_1Statements.htm#ab0a43af4f6720266cc2d70898c04b460a34bafac0a152ef37a7f370cf90f1ecc1',1,'Deveel.Data.Sql.Statements.SetDefault()'],['../namespaceDeveel_1_1Data_1_1Sql_1_1Tables.htm#a175e3d72d1d8f8e63fac9a4f41b891f1a34bafac0a152ef37a7f370cf90f1ecc1',1,'Deveel.Data.Sql.Tables.SetDefault()']]],
+  ['setgroups',['SetGroups',['../namespaceDeveel_1_1Data_1_1Sql_1_1Statements.htm#a81680033db56d71000ed523955db9b1aa902ca7da46235e3ceca8213ac9f9c49f',1,'Deveel::Data::Sql::Statements']]],
+  ['setnull',['SetNull',['../namespaceDeveel_1_1Data_1_1Sql_1_1Tables.htm#a175e3d72d1d8f8e63fac9a4f41b891f1a2ac481dd701d4f580b6b01eb34442e71',1,'Deveel::Data::Sql::Tables']]],
+  ['setpassword',['SetPassword',['../namespaceDeveel_1_1Data_1_1Sql_1_1Statements.htm#a81680033db56d71000ed523955db9b1aae24c2ba6cb788dd2e068578bf33b9e32',1,'Deveel::Data::Sql::Statements']]],
+  ['shared',['Shared',['../namespaceDeveel_1_1Data_1_1Transactions.htm#a53d0188f57c9671672402ace7f952db6aa6156ea9d66fef24e87e841fbabf7cca',1,'Deveel::Data::Transactions']]],
+  ['smallerorequalthan',['SmallerOrEqualThan',['../namespaceDeveel_1_1Data_1_1Sql_1_1Expressions.htm#a2cdcdc86afbc2d50cb1ec8e389598b4aadd4867d836242c796070ad6f086c2559',1,'Deveel::Data::Sql::Expressions']]],
+  ['smallerthan',['SmallerThan',['../namespaceDeveel_1_1Data_1_1Sql_1_1Expressions.htm#a2cdcdc86afbc2d50cb1ec8e389598b4aa4ecbc04ef9071cdee84fa2bcfb217ecd',1,'Deveel::Data::Sql::Expressions']]],
+  ['smallint',['SmallInt',['../namespaceDeveel_1_1Data_1_1Types.htm#a530b117fabbb831a5ebbc66579e154b1abd06c32556baf8267e1313d7a5c58ce7',1,'Deveel::Data::Types']]],
+  ['snapshot',['Snapshot',['../namespaceDeveel_1_1Data_1_1Transactions.htm#a480812ee8c332fe897566db9284f50a1ad4e2713d1b1725a1592f9268589f990d',1,'Deveel::Data::Transactions']]],
+  ['statebased',['StateBased',['../namespaceDeveel_1_1Data_1_1Routines.htm#a47cd0a285c0fb20d9d280c3c2828aff7a8b9f3a40649d78465ed88e15dbd1f021',1,'Deveel::Data::Routines']]],
+  ['static',['Static',['../namespaceDeveel_1_1Data_1_1Routines.htm#a47cd0a285c0fb20d9d280c3c2828aff7a84a8921b25f505d0d2077aeb5db4bc16',1,'Deveel.Data.Routines.Static()'],['../namespaceDeveel_1_1Data_1_1Routines.htm#a2aaaa640c0c24c34d11e3e710f794063a84a8921b25f505d0d2077aeb5db4bc16',1,'Deveel.Data.Routines.Static()']]],
+  ['string',['String',['../namespaceDeveel_1_1Data_1_1Types.htm#a530b117fabbb831a5ebbc66579e154b1a27118326006d3829667a400ad23d5d98',1,'Deveel::Data::Types']]],
+  ['subtract',['Subtract',['../namespaceDeveel_1_1Data_1_1Sql_1_1Expressions.htm#a2cdcdc86afbc2d50cb1ec8e389598b4aa1d9baf077ee87921f57a8fe42d510b65',1,'Deveel::Data::Sql::Expressions']]]
+];

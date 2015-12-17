@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['gc',['GC',['../classDeveel_1_1Data_1_1Sql_1_1Tables_1_1TableSource.htm#a492ebdae4db68f3c48175b296557f316',1,'Deveel::Data::Sql::Tables::TableSource']]],
+  ['geometry',['Geometry',['../classDeveel_1_1Data_1_1Spatial_1_1SqlGeometry.htm#a54d8fcc03538a8329165d024e1f10d45',1,'Deveel::Data::Spatial::SqlGeometry']]],
+  ['geometrytype',['GeometryType',['../classDeveel_1_1Data_1_1Spatial_1_1SqlGeometry.htm#a8c8e2c1decc5a714f4a730da68d80924',1,'Deveel::Data::Spatial::SqlGeometry']]],
+  ['giventablename',['GivenTableName',['../classDeveel_1_1Data_1_1Sql_1_1Query_1_1FromTableDirectSource.htm#af142e679e14e1f1774ef62109481d135',1,'Deveel::Data::Sql::Query::FromTableDirectSource']]],
+  ['grantee',['Grantee',['../classDeveel_1_1Data_1_1Sql_1_1Statements_1_1GrantPrivilegesStatement.htm#ab2276cb6115697136340091a674c0464',1,'Deveel::Data::Sql::Statements::GrantPrivilegesStatement']]],
+  ['grantees',['Grantees',['../classDeveel_1_1Data_1_1Sql_1_1Parser_1_1GrantRoleStatementNode.htm#aa35b47e2734d94fbac375ec9b41faeab',1,'Deveel.Data.Sql.Parser.GrantRoleStatementNode.Grantees()'],['../classDeveel_1_1Data_1_1Sql_1_1Parser_1_1GrantStatementNode.htm#ae9c944bdd584b6c6a09405b0aceceac6',1,'Deveel.Data.Sql.Parser.GrantStatementNode.Grantees()']]],
+  ['grantername',['GranterName',['../classDeveel_1_1Data_1_1Security_1_1Grant.htm#a6d3f99766c92269acab1254e87e8db69',1,'Deveel::Data::Security::Grant']]],
+  ['graphtype',['GraphType',['../classDeveel_1_1Data_1_1Serialization_1_1SerializeData.htm#afc54a364c156b7f112d1a91a41003ee0',1,'Deveel::Data::Serialization::SerializeData']]],
+  ['groupby',['GroupBy',['../classDeveel_1_1Data_1_1Sql_1_1Expressions_1_1SqlQueryExpression.htm#a442655c17816538b2cc630d120a69d95',1,'Deveel.Data.Sql.Expressions.SqlQueryExpression.GroupBy()'],['../classDeveel_1_1Data_1_1Sql_1_1Parser_1_1SqlQueryExpressionNode.htm#ab1734cefb0a5e0a1b2aeb4d78bd1aaa7',1,'Deveel.Data.Sql.Parser.SqlQueryExpressionNode.GroupBy()']]],
+  ['groupbycount',['GroupByCount',['../classDeveel_1_1Data_1_1Sql_1_1Query_1_1QueryPlanner_1_1GroupInfo.htm#a07adc534f274f2eb026ce0d5e12b7bc0',1,'Deveel::Data::Sql::Query::QueryPlanner::GroupInfo']]],
+  ['groupbyexpressions',['GroupByExpressions',['../classDeveel_1_1Data_1_1Sql_1_1Query_1_1QueryPlanner_1_1GroupInfo.htm#a130824bf584c4c8dbc415baf1ab81dfc',1,'Deveel::Data::Sql::Query::QueryPlanner::GroupInfo']]],
+  ['groupbynames',['GroupByNames',['../classDeveel_1_1Data_1_1Sql_1_1Query_1_1QueryPlanner_1_1GroupInfo.htm#a9f67c699977bb9196d846fb59db273c7',1,'Deveel::Data::Sql::Query::QueryPlanner::GroupInfo']]],
+  ['groupexpressions',['GroupExpressions',['../classDeveel_1_1Data_1_1Sql_1_1Parser_1_1GroupByNode.htm#a2836289b96c08adc680ccbf8b2b13153',1,'Deveel::Data::Sql::Parser::GroupByNode']]],
+  ['groupid',['GroupId',['../interfaceDeveel_1_1Data_1_1Sql_1_1IGroupResolver.htm#aad04c511322e075cb50edc994ff63743',1,'Deveel.Data.Sql.IGroupResolver.GroupId()'],['../classDeveel_1_1Data_1_1Sql_1_1Tables_1_1FunctionTable_1_1TableGroupResolver.htm#a09f6fb3dfb637319e3a41b55ab4814aa',1,'Deveel.Data.Sql.Tables.FunctionTable.TableGroupResolver.GroupId()']]],
+  ['groupmax',['GroupMax',['../classDeveel_1_1Data_1_1Sql_1_1Expressions_1_1SqlQueryExpression.htm#aaed6f2791b405e4d631b9424c76bdc2b',1,'Deveel.Data.Sql.Expressions.SqlQueryExpression.GroupMax()'],['../classDeveel_1_1Data_1_1Sql_1_1Query_1_1QueryPlanner_1_1GroupInfo.htm#a6342bfa7bcbbe301abef961f20791376',1,'Deveel.Data.Sql.Query.QueryPlanner.GroupInfo.GroupMax()']]],
+  ['groupmaxcolumn',['GroupMaxColumn',['../classDeveel_1_1Data_1_1Sql_1_1Query_1_1GroupNode.htm#a8798c3e476f9285b20c0f0ed45751aa7',1,'Deveel::Data::Sql::Query::GroupNode']]],
+  ['groupresolver',['GroupResolver',['../classDeveel_1_1Data_1_1Routines_1_1InvokeContext.htm#abd93728a98c09179f743238ceee35817',1,'Deveel.Data.Routines.InvokeContext.GroupResolver()'],['../classDeveel_1_1Data_1_1Sql_1_1Expressions_1_1EvaluateContext.htm#ab538239a8d177dc302375797c3c3316e',1,'Deveel.Data.Sql.Expressions.EvaluateContext.GroupResolver()']]],
+  ['groups',['Groups',['../classDeveel_1_1Data_1_1Sql_1_1Parser_1_1SetGroupsNode.htm#a178ccae83ae6471a55668ab806d28fa7',1,'Deveel.Data.Sql.Parser.SetGroupsNode.Groups()'],['../classDeveel_1_1Data_1_1Sql_1_1Statements_1_1SetUserGroupsAction.htm#ab9798a604e1086ab35887b604cda7c3e',1,'Deveel.Data.Sql.Statements.SetUserGroupsAction.Groups()']]]
+];

@@ -1,0 +1,17 @@
+var searchData=
+[
+  ['basearray',['BaseArray',['../classDeveel_1_1Data_1_1Index_1_1BlockIndex_1_1Block.htm#a43ba9c59bbb31785a15363831499b152',1,'Deveel::Data::Index::BlockIndex::Block']]],
+  ['basecache',['BaseCache',['../classDeveel_1_1Data_1_1Caching_1_1CacheAdapter.htm#a38efb0fa2cfe289cb335e0310dbed3c6',1,'Deveel::Data::Caching::CacheAdapter']]],
+  ['basepath',['BasePath',['../classDeveel_1_1Data_1_1Store_1_1ScatteringFileStoreData.htm#a8f9b95a91fd56616a44e6522431054f1',1,'Deveel.Data.Store.ScatteringFileStoreData.BasePath()'],['../classDeveel_1_1Data_1_1Store_1_1ScatteringFileStoreDataFactory.htm#af7ef756925ac41fe0ff7d3fd2ea32c83',1,'Deveel.Data.Store.ScatteringFileStoreDataFactory.BasePath()']]],
+  ['bigcount',['BigCount',['../classDeveel_1_1Data_1_1Util_1_1BigArray.htm#affa70a4f6e67feee0f69a51fa9a9e4de',1,'Deveel.Data.Util.BigArray.BigCount()'],['../interfaceDeveel_1_1Data_1_1Util_1_1IBigList.htm#acece0c1f5a7c8e3c3f6ad23ea1cbddd3',1,'Deveel.Data.Util.IBigList.BigCount()']]],
+  ['bigvalue',['BigValue',['../classDeveel_1_1Data_1_1Sql_1_1Parser_1_1IntegerLiteralNode.htm#a686b9038f11860cda929ac6723701f93',1,'Deveel.Data.Sql.Parser.IntegerLiteralNode.BigValue()'],['../classDeveel_1_1Data_1_1Sql_1_1Parser_1_1NumberLiteralNode.htm#ace7fa29a585ed45a0b43841601d4a12b',1,'Deveel.Data.Sql.Parser.NumberLiteralNode.BigValue()']]],
+  ['blockcount',['BlockCount',['../classDeveel_1_1Data_1_1Store_1_1FixedRecordList.htm#ab3b85106f2d179bebcf376775f3c0bd2',1,'Deveel::Data::Store::FixedRecordList']]],
+  ['blocklength',['BlockLength',['../classDeveel_1_1Data_1_1Util_1_1BigArray.htm#abb3a5bc1d89a90b5ee367746e2308a5d',1,'Deveel::Data::Util::BigArray']]],
+  ['blockpointer',['BlockPointer',['../interfaceDeveel_1_1Data_1_1Index_1_1IMappedBlock.htm#a2908ea586b379bb01208bc6416b1aa6a',1,'Deveel.Data.Index.IMappedBlock.BlockPointer()'],['../classDeveel_1_1Data_1_1Index_1_1StoreIndex_1_1MappedBlock.htm#a8a041b49a3b70003e5bd958e22f31e5f',1,'Deveel.Data.Index.StoreIndex.MappedBlock.BlockPointer()']]],
+  ['blocks',['Blocks',['../classDeveel_1_1Data_1_1Index_1_1BlockIndexBase.htm#a2f6c724ee5e177a3a6212873141023a3',1,'Deveel::Data::Index::BlockIndexBase']]],
+  ['blocksize',['BlockSize',['../classDeveel_1_1Data_1_1Index_1_1IndexBlock.htm#a6626620b712b67c956ab9d23a338fe0d',1,'Deveel::Data::Index::IndexBlock']]],
+  ['body',['Body',['../classDeveel_1_1Data_1_1Routines_1_1PlSqlFunction.htm#ad6fb070bf3671881f3f911ee9d463147',1,'Deveel.Data.Routines.PlSqlFunction.Body()'],['../classDeveel_1_1Data_1_1Sql_1_1Triggers_1_1TriggerInfo.htm#a377ddde1409c01442bc437c4ca515452',1,'Deveel.Data.Sql.Triggers.TriggerInfo.Body()']]],
+  ['bootorcreate',['BootOrCreate',['../classDeveel_1_1Data_1_1Client_1_1DeveelDbConnectionStringBuilder.htm#ac0f7f788feed43ef912a41ca7b1a2cf6',1,'Deveel::Data::Client::DeveelDbConnectionStringBuilder']]],
+  ['bottom',['Bottom',['../classDeveel_1_1Data_1_1Index_1_1BlockIndex_1_1Block.htm#ac73a1873dc116dee89f1c49100674f86',1,'Deveel.Data.Index.BlockIndex.Block.Bottom()'],['../interfaceDeveel_1_1Data_1_1Index_1_1IIndexBlock.htm#a6f5da753161c90f8fa5e0d960c6b2c46',1,'Deveel.Data.Index.IIndexBlock.Bottom()'],['../classDeveel_1_1Data_1_1Index_1_1StoreIndex_1_1MappedBlock.htm#a317a613442507d5c4f90b7753258acd2',1,'Deveel.Data.Index.StoreIndex.MappedBlock.Bottom()']]],
+  ['boundary',['Boundary',['../classDeveel_1_1Data_1_1Spatial_1_1SqlGeometry.htm#a3775b09c173c9706721014e3f4c12fe5',1,'Deveel::Data::Spatial::SqlGeometry']]]
+];

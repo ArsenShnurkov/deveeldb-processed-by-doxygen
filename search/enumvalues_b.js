@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['named',['Named',['../namespaceDeveel_1_1Data_1_1Sql.htm#a3f41adf2ae023b6ec661173e43611b42a02a7d85bf0d59dff6a850fb5d7dbbe01',1,'Deveel::Data::Sql']]],
+  ['native',['Native',['../namespaceDeveel_1_1Data_1_1Sql.htm#ac34a85a16f68ce04306de71d2896eaeaa925641e0b76c28cc940e8f3ca178d826',1,'Deveel::Data::Sql']]],
+  ['negate',['Negate',['../namespaceDeveel_1_1Data_1_1Sql_1_1Expressions.htm#a2cdcdc86afbc2d50cb1ec8e389598b4aa67d9ebb87ad2c62fe6b9de06c8da7fa5',1,'Deveel::Data::Sql::Expressions']]],
+  ['negativeinfinity',['NegativeInfinity',['../namespaceDeveel_1_1Data_1_1Sql_1_1Objects.htm#afe7dfc9aa4bf3283014653f9d5020327ac65958e0f9944d63bb0d7744146b8b21',1,'Deveel::Data::Sql::Objects']]],
+  ['next',['Next',['../namespaceDeveel_1_1Data_1_1Sql_1_1Cursors.htm#a0f9391145edc2434a8f62f13f66aff2ea10ac3d04253ef7e1ddc73e6091c0cd55',1,'Deveel::Data::Sql::Cursors']]],
+  ['noaction',['NoAction',['../namespaceDeveel_1_1Data_1_1Sql_1_1Tables.htm#a175e3d72d1d8f8e63fac9a4f41b891f1a1e601ea653db1c729c9ee5746730fabe',1,'Deveel::Data::Sql::Tables']]],
+  ['none',['None',['../namespaceDeveel_1_1Data_1_1Routines.htm#a8af341b8dadcc1292f290164be25ffd7a6adf97f83acf6453d4a6a4b1070f3754',1,'Deveel.Data.Routines.None()'],['../namespaceDeveel_1_1Data_1_1Security.htm#a9f52b03cf7c446d9b37bb22e9d1806baa6adf97f83acf6453d4a6a4b1070f3754',1,'Deveel.Data.Security.None()'],['../namespaceDeveel_1_1Data_1_1Sql.htm#a43a8483ef91b1611fe44f265383656b1a6adf97f83acf6453d4a6a4b1070f3754',1,'Deveel.Data.Sql.None()'],['../namespaceDeveel_1_1Data_1_1Sql_1_1Expressions.htm#adb07f7a341b1eda61ff53ddf48cfec81a6adf97f83acf6453d4a6a4b1070f3754',1,'Deveel.Data.Sql.Expressions.None()'],['../namespaceDeveel_1_1Data_1_1Sql_1_1Objects.htm#afe7dfc9aa4bf3283014653f9d5020327a6adf97f83acf6453d4a6a4b1070f3754',1,'Deveel.Data.Sql.Objects.None()'],['../namespaceDeveel_1_1Data_1_1Transactions.htm#a53d0188f57c9671672402ace7f952db6a6adf97f83acf6453d4a6a4b1070f3754',1,'Deveel.Data.Transactions.None()']]],
+  ['normal',['Normal',['../namespaceDeveel_1_1Data_1_1Sql.htm#ac34a85a16f68ce04306de71d2896eaeaa960b44c579bc2f6818d2daaf9e4c16f0',1,'Deveel::Data::Sql']]],
+  ['not',['Not',['../namespaceDeveel_1_1Data_1_1Sql_1_1Expressions.htm#a2cdcdc86afbc2d50cb1ec8e389598b4aaa74c05d080620f087c4e523977230666',1,'Deveel::Data::Sql::Expressions']]],
+  ['notanumber',['NotANumber',['../namespaceDeveel_1_1Data_1_1Sql_1_1Objects.htm#afe7dfc9aa4bf3283014653f9d5020327a8d636510a5950d1099dfee8940db51d8',1,'Deveel::Data::Sql::Objects']]],
+  ['notdeferrable',['NotDeferrable',['../namespaceDeveel_1_1Data_1_1Sql_1_1Tables.htm#ac1d5355ca3766efdcd474b197f3c10e2a4b6238449a210331e86aeaee035fe804',1,'Deveel::Data::Sql::Tables']]],
+  ['notequal',['NotEqual',['../namespaceDeveel_1_1Data_1_1Sql_1_1Expressions.htm#a2cdcdc86afbc2d50cb1ec8e389598b4aa19bb0af2c3c530538cb41aff7f235b96',1,'Deveel::Data::Sql::Expressions']]],
+  ['notlike',['NotLike',['../namespaceDeveel_1_1Data_1_1Sql_1_1Expressions.htm#a2cdcdc86afbc2d50cb1ec8e389598b4aa4a099d34042d925bb0baa06718a5a140',1,'Deveel::Data::Sql::Expressions']]],
+  ['notnull',['NotNull',['../namespaceDeveel_1_1Data_1_1Mapping.htm#a2125353861562a2b3b4b86d0bd10902da0d162bc2f114996905081b87bc44869a',1,'Deveel::Data::Mapping']]],
+  ['null',['Null',['../namespaceDeveel_1_1Data_1_1Types.htm#a530b117fabbb831a5ebbc66579e154b1abbb93ef26e3c101ff11cdd21cab08a94',1,'Deveel::Data::Types']]],
+  ['nullable',['Nullable',['../namespaceDeveel_1_1Data_1_1Routines.htm#a8af341b8dadcc1292f290164be25ffd7a46ad517b8b7aa4e368a7cc226533bfb6',1,'Deveel::Data::Routines']]],
+  ['numeric',['Numeric',['../namespaceDeveel_1_1Data_1_1Types.htm#a530b117fabbb831a5ebbc66579e154b1a87322391cc6e8948ce9fd5d6cb84fced',1,'Deveel::Data::Types']]]
+];
